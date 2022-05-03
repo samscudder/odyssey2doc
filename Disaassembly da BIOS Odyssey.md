@@ -20,7 +20,7 @@ Baseado num documento do Paul Robson
 ```assembly
 0A0       SVCTRL    EQU A0              ; Registro de controle
 0A1       SVSTAT    EQU A1              ; Registro de status
-0A2       SVDVST    EQU A2              ; Registro de colisão
+0A2       SVOVST    EQU A2              ; Registro de colisão
 0A3       SVCOLR    EQU A3              ; Registro de cor
 0A4       SVYSTR    EQU A4              ; Registro de posição Y do feixe
 0A5       SVXSTR    EQU A5              ; Registro de posição X do feixe
