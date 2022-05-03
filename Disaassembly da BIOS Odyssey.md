@@ -1261,7 +1261,7 @@ Rotina de leitura dos joysticks. R1 deve conter 0 ou 1 para selecionar o joystic
 
 Calcula a direção da posição do joystick, de acordo com esse desenho:
 
-![image-20211108074711710](D:\Users\simon\Documents\Odyssey Programming\image-20211108074711710.png)
+![image-20211108074711710](image-20211108074711710.png)
 
 Só deve ser chamado se o joystick não estiver centralizado
 
